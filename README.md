@@ -6,12 +6,6 @@ This repository contains a hypothetical case study illustrating the transition o
 ## Disclaimer
 Please note that this case study is purely hypothetical and serves as an illustrative example only. The company name (TechSolutions), specific details, and scenarios depicted are fictional. The purpose of this case study is to demonstrate common considerations and advantages associated with transitioning to the XaaS cloud model in a simulated environment.
 
-## Contents
-- `README.md`: This file providing an overview of the hypothetical case study.
-- `server.js`: Example Node.js server code for a text narrator application deployed on Azure.
-- `index.html`: Example HTML and JavaScript frontend for the text narrator application.
-- Other files: Additional resources related to the hypothetical case study.
-
 ## Usage
 This repository can be used as a reference or starting point for understanding how organizations might approach and benefit from migrating to the XaaS cloud model. Developers, IT professionals, and stakeholders interested in cloud computing and digital transformation strategies may find this case study informative.
 
