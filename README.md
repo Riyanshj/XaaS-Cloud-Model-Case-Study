@@ -1,2 +1,2 @@
-# XaaS-Cloud-Model-Case-Study-
-Everything as a Service (XaaS) is a cloud computing model where a wide range of services, from infrastructure to software applications, are delivered over the internet. It includes offerings such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS)
+# XaaS-Cloud-Model-Case-Study
+**Everything as a Service (XaaS)** is a cloud computing model where a wide range of services, from infrastructure to software applications, are delivered over the internet. It includes offerings such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), enabling businesses to scale resources, enhance flexibility, and reduce IT infrastructure costs by outsourcing management to cloud providers. XaaS empowers organizations to focus on innovation and core business activities while leveraging cloud technologies for enhanced efficiency and agility.
