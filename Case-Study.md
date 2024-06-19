@@ -1,5 +1,5 @@
 
-# Case Study: Everything as a Service (XaaS) Cloud Model
+# Hypothetical Case Study: Transition to Everything as a Service (XaaS) Cloud Model
 
 ## Introduction
 The Everything as a Service (XaaS) model is a comprehensive approach to cloud computing that encompasses a wide range of services delivered over the internet. This case study explores the implementation and benefits of the XaaS model through the example of a mid-sized tech company, TechSolutions, transitioning from traditional IT infrastructure to a cloud-based XaaS model.
